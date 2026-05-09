@@ -1,4 +1,3 @@
-// Get this from Firebase Console (free)
 window.firebaseConfig = {
   apiKey: "AIzaSyBwyKPe1Cvqf9swwGJXD9SewTgvYz3l3Tc",
   authDomain: "pokerplanning-rajopanth.firebaseapp.com",
